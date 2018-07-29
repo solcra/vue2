@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='https://solcra.github.io/vue2/dist/logo.png')
     h1 {{ msg }}
     h2 Essential Links
     ul
